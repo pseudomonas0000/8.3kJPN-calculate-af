@@ -3,7 +3,7 @@
 use strict;
 use warnings;
 
-# 使用するモジュールと関数
+# use module and function
 use File::Copy qw/copy move/;
 
 my $infile = $ARGV[0];
