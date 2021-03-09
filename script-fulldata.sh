@@ -1,4 +1,4 @@
-# tommoのサイトから以下のファイルをダウンロード
+# download datasets from jmorp site
 	# tommo-8.3kjpn-20200831-gf_snvall-autosome.vcf.gz
 	# tommo-8.3kjpn-20200831-gf_indelall-autosome.vcf.gz	tommo-8.3kjpn-20200831-gf_snvall-autosome.vcf.gz.tbi
 	# tommo-8.3kjpn-20200831-gf_indelall-autosome.vcf.gz.tbi	tommo-8.3kjpn-20200831-gf_snvall-chrX_PAR3.vcf.gz
