@@ -1,0 +1,3 @@
+##FORMAT=<ID=GenotypeCount,Number=G,Type=Integer,Description="Genotype count in called genotypes. Refer to Genotype Ordering section in VCF v4.3 specification for ordering of genotypes">
+##FORMAT=<ID=GenotypeCount_MALE,Number=G,Type=Integer,Description="Genotype count in called male genotypes. Refer to Genotype Ordering section in VCF v4.3 specification for ordering of genotypes">
+##FORMAT=<ID=GenotypeCount_FEMALE,Number=G,Type=Integer,Description="Genotype count in called female genotypes. Refer to Genotype Ordering section in VCF v4.3 specification for ordering of genotypes">

@@ -1,0 +1,9 @@
+##INFO=<ID=tommo8.3k_AC,Number=1,Type=Integer,Description="Allele cuont, ToMMO 8.3kJPN dataset.">
+##INFO=<ID=tommo8.3k_AN,Number=1,Type=Integer,Description="Total number of alleles, ToMMO 8.3kJPN dataset.">
+##INFO=<ID=tommo8.3k_AF,Number=1,Type=Float,Description="Allele frequency, ToMMO 8.3kJPN dataset.">
+##INFO=<ID=tommo8.3k_carrier_het,Number=1,Type=Integer,Description="The reciprocal number, the carrier frequency of heterozygotic individuals, round down to the nearest decimal, ToMMO 8.3kJPN dataset.">
+##INFO=<ID=tommo8.3k_hom,Number=1,Type=Integer,Description="The number of homozygotic individuals, ToMMO 8.3kJPN dataset.">
+##INFO=<ID=tommo8.3k_carrier_hom,Number=1,Type=Integer,Description="The reciprocal number, the frequency of homozygotic indviduals, round down to the nearest decimal, ToMMO 8.3kJPN dataset.">
+##INFO=<ID=tommo8.3k_exp_hom,Number=1,Type=Integer,Description="The reciprocal number of expected indviduals have homozygoutes calculated by tommo8.3k_carrier_het, ToMMO 8.3kJPN dataset.">
+##INFO=<ID=tommo8.3k_hemi,Number=1,Type=Integer,Description="The number of hemizygotic individuals, ToMMO 8.3kJPN dataset.">
+##INFO=<ID=tommo8.3k_carrier_hemi,Number=1,Type=Integer,Description="The reciprocal number, the frequency of hemizygotic individuals, ToMMO 8.3kJPN dataset.">
